@@ -1,2 +1,3 @@
 var text = "ddd"; text.length;
-console.log(text);
+var t = "d";
+console.log(text);      
